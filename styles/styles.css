@@ -1,0 +1,17 @@
+
+    body {font-family:'Courier New', Courier, monospace;
+    color:rgb(90, 59, 14)}
+
+    .interests {font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: flex;
+    color:beige;
+    position:right;}
+
+    .top {font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(66, 0, 128);
+    position:absolute }
+
+    .name {font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgb(252, 252, 252);
+    position:-ms-page;
+    size: 100px;}
